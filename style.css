@@ -125,3 +125,43 @@ a {
 .service-container p{
   font-size: 16px;
 }
+
+.service-container img{
+  height: 95px;
+  width: 60px;
+}
+
+.providers {
+  display: flex;
+  align-items: center;
+  padding: 40px 115px;
+}
+
+.hero-img-2 img{
+  width: 693px;
+  height: 598px;
+}
+
+.hero-txt-2 {
+  padding: 0px 0px 0px 40px;
+}
+
+.hero-txt-2 h1 {
+  font-size: 36px;
+  padding-bottom: 40px;
+}
+
+.hero-txt-2 p {
+  color: #7d7987;
+  padding-bottom: 40px;
+}
+
+.providers button {
+  border-radius: 55px;
+  align-items: center;
+  padding: 15px 40px;
+  background-color: #ffffff;
+  color: #458ff6;
+  border: 2px solid #458ff6;
+}
+
