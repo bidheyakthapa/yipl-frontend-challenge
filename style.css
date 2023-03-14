@@ -409,3 +409,51 @@ a {
   text-align: center; 
   margin-left: 45%
 }
+
+.contact{
+  margin: 120px;
+}
+
+.contact h1{
+  font-size: 36px;
+  margin: 30px;
+  text-align: center;
+}
+
+.contact p{
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.inputbox{
+  margin-left: 29%;
+}
+
+.detail{
+  display: flex;
+}
+
+.number{
+ padding-left: 35px;
+}
+
+input{
+  border: 1px #7D7987 solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.submit{
+  border-radius: 55px;
+  padding: 10px 40px;
+  background-color: #ffffff;
+  color: #458ff6;
+  border: 2px solid #458ff6;
+  text-align: center; 
+  margin-left: 44%;
+  margin-top: 28px;
+}
+
+
