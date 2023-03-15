@@ -22,14 +22,15 @@
   align-items: center;
 }
 
-.logo p {
+.logo h2 {
   background-color: #458ff6;
   border-radius: 100%;
-  width: 20px;
+  width: 35px;
   text-align: center;
   color: #ffffff;
   padding: 4px;
   margin: 8px;
+  font-size: 26px;
 }
 
 .nav-list {
@@ -489,4 +490,20 @@ footer li{
 
 .copyright{
   font-size: 16px;
+}
+
+.logo-footer {
+  display: flex;
+  align-items: center;
+}
+
+.logo-footer h2 {
+  background-color: #ffffff;
+  border-radius: 100%;
+  width: 35px;
+  text-align: center;
+  color: #5B9BF3;
+  padding: 1px;
+  margin: -20px 6px 0px 0px;
+  font-size: 26px;
 }
