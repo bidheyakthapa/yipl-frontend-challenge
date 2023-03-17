@@ -135,8 +135,14 @@ a {
 }
 
 .service-container img {
-  height: 95px;
+  height: 90px;
   width: 60px;
+}
+
+.img-5 img {
+  height: 65px;
+  width: 70px;
+  padding: 10px 0px;
 }
 
 .providers {
